@@ -34,9 +34,5 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open `notebooks/Car_Sales_Analysis.ipynb` and run cells from top to bottom.
-
-## GitHub Upload
-Create a public repository named `car-sales-analysis`, then upload the files in this project folder.
-
 ## Libraries
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
